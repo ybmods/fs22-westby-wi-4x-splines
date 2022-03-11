@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="Mod Map US" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="9.0.2"/>
+  </Asset>
+
+  <Files>
+  </Files>
+
+
+  <Materials>
+    <Material name="UnnamedMaterial" materialId="124579" diffuseColor="1 1 1 1">
+    </Material>
+  </Materials>
+
+
+  <Shapes externalShapesFile="splines.i3d.shapes">
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+      <TransformGroup name="splines" nodeId="124576">
+        <TransformGroup name="trafficSystem" nodeId="124577">
+          <Shape shapeId="1" name="mainVehicleTourE1" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124578" distanceBlending="false"/>
+          <Shape shapeId="2" name="mainVehicleTourE2" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124580" distanceBlending="false"/>
+          <Shape shapeId="3" name="mainVehicleTourE3" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124581" distanceBlending="false"/>
+          <Shape shapeId="4" name="mainVehicleTourE4" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124582" distanceBlending="false"/>
+          <Shape shapeId="5" name="mainVehicleTourE5" translation="-2183.49 224.767 -231.4" visibility="false" nodeId="124583" distanceBlending="false"/>
+          <Shape shapeId="6" name="mainVehicleTourE6" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124584" distanceBlending="false"/>
+          <Shape shapeId="7" name="mainVehicleTourE7" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124585" distanceBlending="false"/>
+          <Shape shapeId="8" name="mainVehicleTourE8" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124586" distanceBlending="false"/>
+          <Shape shapeId="9" name="mainVehicleTourE9" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124587" distanceBlending="false"/>
+          <Shape shapeId="10" name="mainVehicleTourE10" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124588" distanceBlending="false"/>
+          <Shape shapeId="11" name="mainVehicleTourE11" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124589" distanceBlending="false"/>
+          <Shape shapeId="12" name="mainVehicleTourE12" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124590" distanceBlending="false"/>
+          <Shape shapeId="13" name="mainVehicleTourE13" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124591" distanceBlending="false"/>
+          <Shape shapeId="14" name="mainVehicleTourE14" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124592" distanceBlending="false"/>
+          <Shape shapeId="15" name="mainVehicleTourEastLoop" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124593" distanceBlending="false"/>
+          <Shape shapeId="16" name="mainVehicleTourW1" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124594" distanceBlending="false"/>
+          <Shape shapeId="17" name="mainVehicleTourW2" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124595" distanceBlending="false"/>
+          <Shape shapeId="18" name="mainVehicleTourW3" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124596" distanceBlending="false"/>
+          <Shape shapeId="19" name="mainVehicleTourW4" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124597" distanceBlending="false"/>
+          <Shape shapeId="20" name="mainVehicleTourW5" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124598" distanceBlending="false"/>
+          <Shape shapeId="21" name="mainVehicleTourW6" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124599" distanceBlending="false"/>
+          <Shape shapeId="22" name="mainVehicleTourW7" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124600" distanceBlending="false"/>
+          <Shape shapeId="23" name="mainVehicleTourW8" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124601" distanceBlending="false"/>
+          <Shape shapeId="24" name="mainVehicleTourW9" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124602" distanceBlending="false"/>
+          <Shape shapeId="25" name="mainVehicleTourW10" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124603" distanceBlending="false"/>
+          <Shape shapeId="26" name="mainVehicleTourW11" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124604" distanceBlending="false"/>
+          <Shape shapeId="27" name="mainVehicleTourW12" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124605" distanceBlending="false"/>
+          <Shape shapeId="28" name="mainVehicleTourW13" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124606" distanceBlending="false"/>
+          <Shape shapeId="29" name="mainVehicleTourW14" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124607" distanceBlending="false"/>
+          <Shape shapeId="30" name="mainVehicleTourWestLoop" translation="-2183.49 219.752 -231.4" visibility="false" nodeId="124608" distanceBlending="false"/>
+          <Shape shapeId="31" name="mainVehicleTourJ1_1" translation="-2052.84 219.85 -216.43" visibility="false" nodeId="124609" distanceBlending="false"/>
+          <Shape shapeId="32" name="mainVehicleTourJ1_2" translation="-2052.84 219.85 -221.967" visibility="false" nodeId="124610" distanceBlending="false"/>
+          <Shape shapeId="33" name="mainVehicleTourJ2_1" translation="-1411.71 219.771 81.208" visibility="false" nodeId="124611" distanceBlending="false"/>
+          <Shape shapeId="34" name="mainVehicleTourJ2_2" translation="-1410.22 219.771 76.9926" visibility="false" nodeId="124612" distanceBlending="false"/>
+          <Shape shapeId="35" name="mainVehicleTourJ3_1" translation="-1267.63 219.954 149.457" visibility="false" nodeId="124613" distanceBlending="false"/>
+          <Shape shapeId="36" name="mainVehicleTourJ3_2" translation="-1267.63 219.954 147.457" visibility="false" nodeId="124614" distanceBlending="false"/>
+          <Shape shapeId="37" name="mainVehicleTourJ4_1" translation="-1190.68 219.797 184.335" visibility="false" nodeId="124615" distanceBlending="false"/>
+          <Shape shapeId="38" name="mainVehicleTourJ4_2" translation="-1194.23 219.991 178.354" visibility="false" nodeId="124616" distanceBlending="false"/>
+          <Shape shapeId="39" name="mainVehicleTourJ5_1" translation="-99.5477 240.041 692.032" visibility="false" nodeId="124617" distanceBlending="false"/>
+          <Shape shapeId="40" name="mainVehicleTourJ5_2" translation="-96.2433 241.75 681.596" visibility="false" nodeId="124618" distanceBlending="false"/>
+          <Shape shapeId="41" name="mainVehicleTourJ6_1" translation="-50.7474 242.787 710.72" visibility="false" nodeId="124619" distanceBlending="false"/>
+          <Shape shapeId="42" name="mainVehicleTourJ6_2" translation="-49.3325 244.562 705.401" visibility="false" nodeId="124620" distanceBlending="false"/>
+          <Shape shapeId="43" name="mainVehicleTourJ7_1" translation="179.968 244.409 744.651" visibility="false" nodeId="124621" distanceBlending="false"/>
+          <Shape shapeId="44" name="mainVehicleTourJ7_2" translation="179.642 246.379 740.14" visibility="false" nodeId="124622" distanceBlending="false"/>
+          <Shape shapeId="45" name="mainVehicleTourJ8_1" translation="360.665 241.895 705.647" visibility="false" nodeId="124623" distanceBlending="false"/>
+          <Shape shapeId="46" name="mainVehicleTourJ8_2" translation="361.371 244.252 702.986" visibility="false" nodeId="124624" distanceBlending="false"/>
+          <Shape shapeId="47" name="mainVehicleTourJ9_1" translation="802.133 240.844 575.424" visibility="false" nodeId="124625" distanceBlending="false"/>
+          <Shape shapeId="48" name="mainVehicleTourJ9_2" translation="801.168 242.938 570.971" visibility="false" nodeId="124626" distanceBlending="false"/>
+          <Shape shapeId="49" name="mainVehicleTourJ10_1" translation="974.262 243.562 451.056" visibility="false" nodeId="124627" distanceBlending="false"/>
+          <Shape shapeId="50" name="mainVehicleTourJ10_2" translation="968.771 245.937 445.99" visibility="false" nodeId="124628" distanceBlending="false"/>
+          <Shape shapeId="51" name="mainVehicleTourJ11_1" translation="1126.45 245.932 301.882" visibility="false" nodeId="124629" distanceBlending="false"/>
+          <Shape shapeId="52" name="mainVehicleTourJ11_2" translation="1123.05 248.509 297.508" visibility="false" nodeId="124630" distanceBlending="false"/>
+          <Shape shapeId="53" name="mainVehicleTourJ12_1" translation="1256.96 243.443 181.561" visibility="false" nodeId="124631" distanceBlending="false"/>
+          <Shape shapeId="54" name="mainVehicleTourJ12_2" translation="1252.52 245.975 177.178" visibility="false" nodeId="124632" distanceBlending="false"/>
+          <Shape shapeId="55" name="mainVehicleTourJ13_1" translation="1585.37 248.676 12.0732" visibility="false" nodeId="124633" distanceBlending="false"/>
+          <Shape shapeId="56" name="mainVehicleTourJ13_2" translation="1584.23 250.976 4.67966" visibility="false" nodeId="124634" distanceBlending="false"/>
+          <Shape shapeId="57" name="mainVehicleTourJ14_1" translation="1719.16 249.34 -16.2257" visibility="false" nodeId="124635" distanceBlending="false"/>
+          <Shape shapeId="58" name="mainVehicleTourJ14_2" translation="1717.63 251.597 -23.6031" visibility="false" nodeId="124636" distanceBlending="false"/>
+          <Shape shapeId="59" name="mainVehicleTourJ15_1" translation="2031.42 248.984 -120.421" visibility="false" nodeId="124637" distanceBlending="false"/>
+          <Shape shapeId="60" name="mainVehicleTourJ15_2" translation="2038.81 251.547 -132.029" visibility="false" nodeId="124638" distanceBlending="false"/>
+        </TransformGroup>
+        <TransformGroup name="pedestrianSystem" nodeId="124639"/>
+        <TransformGroup name="ai" nodeId="124640">
+          <Shape shapeId="61" name="SWRoad" translation="-1675.89 222.799 1223.15" visibility="false" nodeId="124641" distanceBlending="false"/>
+          <Shape shapeId="62" name="SWRoadJ1_1" translation="-1670.28 222.814 1220.26" visibility="false" nodeId="124642" distanceBlending="false"/>
+          <Shape shapeId="63" name="SWRoadJ1_2" translation="-1676.53 222.656 1220.12" visibility="false" nodeId="124643" distanceBlending="false"/>
+          <Shape shapeId="64" name="SWRoadJ1_3" translation="-1673.34 222.713 1215.34" visibility="false" nodeId="124644" distanceBlending="false"/>
+          <Shape shapeId="65" name="SWRoadJ1_4" translation="-1673.34 222.713 1217.79" visibility="false" nodeId="124645" distanceBlending="false"/>
+          <Shape shapeId="66" name="SWRoadJ1_5" translation="-1671.82 222.659 1219.44" visibility="false" nodeId="124646" distanceBlending="false"/>
+          <Shape shapeId="67" name="SWRoadJ1_6" translation="-1670.8 222.659 1215.1" visibility="false" nodeId="124647" distanceBlending="false"/>
+          <Shape shapeId="68" name="SWRoadJ2_1" visibility="false" nodeId="124648" distanceBlending="false"/>
+          <Shape shapeId="69" name="SWRoadJ2_2" visibility="false" nodeId="124649" distanceBlending="false"/>
+          <Shape shapeId="70" name="SWRoadJ2_3" visibility="false" nodeId="124650" distanceBlending="false"/>
+          <Shape shapeId="71" name="SWRoadJ2_4" visibility="false" nodeId="124651" distanceBlending="false"/>
+          <Shape shapeId="72" name="SWRoadJ2_5" visibility="false" nodeId="124652" distanceBlending="false"/>
+          <Shape shapeId="73" name="SWRoadJ2_6" visibility="false" nodeId="124653" distanceBlending="false"/>
+          <Shape shapeId="74" name="SRoadE1" translation="-1682.85 222.396 1217.14" visibility="false" nodeId="124654" distanceBlending="false"/>
+          <Shape shapeId="75" name="SRoadE2" translation="-1668.39 222.857 1217.62" visibility="false" nodeId="124655" distanceBlending="false"/>
+          <Shape shapeId="76" name="SRoadE3" translation="-1246.1 230.373 1214.59" visibility="false" nodeId="124656" distanceBlending="false"/>
+          <Shape shapeId="77" name="SRoadE4" translation="-154.713 238.909 1171.91" visibility="false" nodeId="124657" distanceBlending="false"/>
+          <Shape shapeId="78" name="SRoadE5" translation="3.032 245.445 1165.75" visibility="false" nodeId="124658" distanceBlending="false"/>
+          <Shape shapeId="79" name="SRoadE6" translation="44.8433 245.445 1165.56" visibility="false" nodeId="124659" distanceBlending="false"/>
+          <Shape shapeId="80" name="SRoadE7" translation="100.003 245.098 1164" visibility="false" nodeId="124660" distanceBlending="false"/>
+          <Shape shapeId="81" name="SRoadE8" translation="379.495 223.382 1163.08" visibility="false" nodeId="124661" distanceBlending="false"/>
+          <Shape shapeId="82" name="SRoadE9" translation="446.082 222.667 1162.32" visibility="false" nodeId="124662" distanceBlending="false"/>
+          <Shape shapeId="83" name="SRoadE10" translation="818.785 214.08 1160.2" visibility="false" nodeId="124663" distanceBlending="false"/>
+          <Shape shapeId="84" name="SRoadE11" translation="1614.37 192.131 1150.28" visibility="false" nodeId="124664" distanceBlending="false"/>
+          <Shape shapeId="85" name="SRoadW1" translation="-1677.66 222.574 1215.55" visibility="false" nodeId="124665" distanceBlending="false"/>
+          <Shape shapeId="86" name="SRoadW2" translation="-1314.05 231.387 1212.07" visibility="false" nodeId="124666" distanceBlending="false"/>
+          <Shape shapeId="87" name="SRoadW3" translation="-168.511 237.904 1169.59" visibility="false" nodeId="124667" distanceBlending="false"/>
+          <Shape shapeId="88" name="SRoadW4" translation="-14.3765 245.408 1164.49" visibility="false" nodeId="124668" distanceBlending="false"/>
+          <Shape shapeId="89" name="SRoadW5" translation="65.6604 245.188 1162.21" visibility="false" nodeId="124669" distanceBlending="false"/>
+          <Shape shapeId="90" name="SRoadW6" translation="84.3226 245.188 1162.21" visibility="false" nodeId="124670" distanceBlending="false"/>
+          <Shape shapeId="91" name="SRoadW7" translation="350.628 224.903 1161.73" visibility="false" nodeId="124671" distanceBlending="false"/>
+          <Shape shapeId="92" name="SRoadW8" translation="427.586 225.501 1159.67" visibility="false" nodeId="124672" distanceBlending="false"/>
+          <Shape shapeId="93" name="SRoadW9" translation="807.075 214.069 1157.74" visibility="false" nodeId="124673" distanceBlending="false"/>
+          <Shape shapeId="94" name="SRoadW10" translation="1584.73 194.025 1149.26" visibility="false" nodeId="124674" distanceBlending="false"/>
+          <Shape shapeId="95" name="SRoadW11" translation="2037.69 202.508 1149.79" visibility="false" nodeId="124675" distanceBlending="false"/>
+          <Shape shapeId="96" name="SRoadJ3_1" translation="-5.94449 245.357 1162.85" visibility="false" nodeId="124676" distanceBlending="false"/>
+          <Shape shapeId="97" name="SRoadJ3_2" translation="-8.14015 245.357 1162.85" visibility="false" nodeId="124677" distanceBlending="false"/>
+          <Shape shapeId="98" name="SRoadJ3_3" translation="-15.4166 245.357 1162.85" visibility="false" nodeId="124678" distanceBlending="false"/>
+          <Shape shapeId="99" name="SRoadJ3_4" translation="-12.9621 245.357 1162.85" visibility="false" nodeId="124679" distanceBlending="false"/>
+          <Shape shapeId="100" name="SRoadJ3_5" translation="-10.2596 245.357 1162.85" visibility="false" nodeId="124680" distanceBlending="false"/>
+          <Shape shapeId="101" name="SRoadJ3_6" translation="1.82184 245.357 1168.78" rotation="-180 -4.37188 -180" visibility="false" nodeId="124681" distanceBlending="false"/>
+          <Shape shapeId="102" name="SRoadJ4_1" translation="36.6253 245.337 1159.57" visibility="false" nodeId="124682" distanceBlending="false"/>
+          <Shape shapeId="103" name="SRoadJ4_2" translation="41.6686 245.337 1159.57" visibility="false" nodeId="124683" distanceBlending="false"/>
+          <Shape shapeId="104" name="SRoadJ5_1" translation="79.635 245.222 1163.52" visibility="false" nodeId="124684" distanceBlending="false"/>
+          <Shape shapeId="105" name="SRoadJ5_2" translation="79.6346 245.222 1155.98" visibility="false" nodeId="124685" distanceBlending="false"/>
+          <Shape shapeId="106" name="SRoadJ5_3" translation="79.6346 245.222 1159" visibility="false" nodeId="124686" distanceBlending="false"/>
+          <Shape shapeId="107" name="SRoadJ5_4" translation="74.6848 245.222 1157.76" visibility="false" nodeId="124687" distanceBlending="false"/>
+          <Shape shapeId="108" name="SRoadJ5_5" translation="68.4221 245.222 1157.76" visibility="false" nodeId="124688" distanceBlending="false"/>
+          <Shape shapeId="109" name="SRoadJ5_6" translation="69.892 245.222 1155.09" visibility="false" nodeId="124689" distanceBlending="false"/>
+          <Shape shapeId="110" name="SRoadJ6_1" translation="364.798 224.737 1163.6" visibility="false" nodeId="124690" distanceBlending="false"/>
+          <Shape shapeId="111" name="SRoadJ6_2" translation="366.797 224.737 1158.64" visibility="false" nodeId="124691" distanceBlending="false"/>
+          <Shape shapeId="112" name="SRoadJ6_3" translation="366.777 225.739 1160.54" visibility="false" nodeId="124692" distanceBlending="false"/>
+          <Shape shapeId="113" name="SRoadJ6_4" translation="362.5 225.739 1159.1" visibility="false" nodeId="124693" distanceBlending="false"/>
+          <Shape shapeId="114" name="SRoadJ6_5" translation="369.899 225.739 1154.71" visibility="false" nodeId="124694" distanceBlending="false"/>
+          <Shape shapeId="115" name="SRoadJ6_6" translation="363.727 226.73 1153.66" visibility="false" nodeId="124695" distanceBlending="false"/>
+          <Shape shapeId="116" name="SRoadJ6_1" translation="436.132 222.657 1162.38" visibility="false" nodeId="124696" distanceBlending="false"/>
+          <Shape shapeId="117" name="SRoadJ6_2" translation="436.132 223.691 1157.8" visibility="false" nodeId="124697" distanceBlending="false"/>
+          <Shape shapeId="118" name="SRoadJ7_1" translation="815.384 216.11 1161.16" visibility="false" nodeId="124698" distanceBlending="false"/>
+          <Shape shapeId="119" name="SRoadJ7_2" translation="811.576 217.555 1146.41" visibility="false" nodeId="124699" distanceBlending="false"/>
+          <Shape shapeId="120" name="SERoadS" translation="364.318 223.836 1174.8" visibility="false" nodeId="124700" distanceBlending="false"/>
+          <Shape shapeId="121" name="SERoadN" translation="367.368 223.836 1174.8" visibility="false" nodeId="124701" distanceBlending="false"/>
+          <Shape shapeId="122" name="NorthSouth1_N1" translation="-1267.59 230.822 1201.28" visibility="false" nodeId="124702" distanceBlending="false"/>
+          <Shape shapeId="123" name="NorthSouth1_S1" translation="-1269.95 230.822 1201.28" visibility="false" nodeId="124703" distanceBlending="false"/>
+          <Shape shapeId="124" name="NorthSouth1_N2" translation="-1271.39 219.656 138.147" visibility="false" nodeId="124704" distanceBlending="false"/>
+          <Shape shapeId="125" name="NorthSouth1_S2" translation="-1274.24 219.656 138.147" visibility="false" nodeId="124705" distanceBlending="false"/>
+          <Shape shapeId="126" name="NorthSouth1_N3" translation="-1271.39 219.656 138.147" visibility="false" nodeId="124706" distanceBlending="false"/>
+          <Shape shapeId="127" name="NorthSouth1_S3" translation="-1274.24 219.656 138.147" visibility="false" nodeId="124707" distanceBlending="false"/>
+          <Shape shapeId="128" name="NorthSouth1J1_1" translation="-1269.75 205.378 -531.349" visibility="false" nodeId="124708" distanceBlending="false"/>
+          <Shape shapeId="129" name="NorthSouth1J1_2" translation="-1272.54 205.515 -530.343" visibility="false" nodeId="124709" distanceBlending="false"/>
+          <Shape shapeId="130" name="NorthSouth1J1_3" translation="-1272.9 205.68 -537.108" visibility="false" nodeId="124710" distanceBlending="false"/>
+          <Shape shapeId="131" name="NorthSouth1J1_4" translation="-1270.57 205.832 -527.912" visibility="false" nodeId="124711" distanceBlending="false"/>
+          <Shape shapeId="132" name="NorthSouth1J1_5" translation="-1270.48 206.221 -534.088" visibility="false" nodeId="124712" distanceBlending="false"/>
+          <Shape shapeId="133" name="NorthSouth1J1_6" translation="-1272.12 206.614 -532.771" visibility="false" nodeId="124713" distanceBlending="false"/>
+          <Shape shapeId="134" name="EastWestCenter_E1" translation="-1185.29 220.068 174.896" visibility="false" nodeId="124714" distanceBlending="false"/>
+          <Shape shapeId="135" name="EastWestCenter_W1" translation="-1188.12 220.068 173.257" visibility="false" nodeId="124715" distanceBlending="false"/>
+          <Shape shapeId="136" name="EastWestCenterJ1_1" translation="-865.005 230.697 93.7185" visibility="false" nodeId="124716" distanceBlending="false"/>
+          <Shape shapeId="137" name="EastWestCenterJ1_2" translation="-865.005 230.697 87.4388" visibility="false" nodeId="124717" distanceBlending="false"/>
+          <Shape shapeId="138" name="EastWestCenterJ1_3" translation="-862.033 230.697 87.4388" visibility="false" nodeId="124718" distanceBlending="false"/>
+          <Shape shapeId="139" name="EastWestCenterJ1_4" translation="-865.755 230.697 84.2557" visibility="false" nodeId="124719" distanceBlending="false"/>
+          <Shape shapeId="140" name="EastWestCenterJ1_5" translation="-862.578 231.416 85.0841" visibility="false" nodeId="124720" distanceBlending="false"/>
+          <Shape shapeId="141" name="EastWestCenterJ1_6" translation="-860.732 231.416 85.0841" visibility="false" nodeId="124721" distanceBlending="false"/>
+          <Shape shapeId="142" name="EastWestCenter_E2" translation="-849.481 231.166 97.5975" visibility="false" nodeId="124722" distanceBlending="false"/>
+          <Shape shapeId="143" name="EastWestCenter_W2" translation="-849.481 231.166 94.3157" visibility="false" nodeId="124723" distanceBlending="false"/>
+          <Shape shapeId="144" name="NorthSouth2_N1" translation="-860.992 231.545 79.6136" visibility="false" nodeId="124724" distanceBlending="false"/>
+          <Shape shapeId="145" name="NorthSouth2_S1" translation="-864.286 231.545 79.6136" visibility="false" nodeId="124725" distanceBlending="false"/>
+          <Shape shapeId="146" name="NorthSouth3_N1" translation="76.7714 244.922 1144.87" visibility="false" nodeId="124726" distanceBlending="false"/>
+          <Shape shapeId="147" name="NorthSouth3_S1" translation="74.1728 244.922 1146.28" visibility="false" nodeId="124727" distanceBlending="false"/>
+          <Shape shapeId="148" name="NorthSouth3_N2" translation="76.7714 244.922 1144.87" visibility="false" nodeId="124728" distanceBlending="false"/>
+          <Shape shapeId="149" name="NorthSouth3_S2" translation="74.1728 244.922 1146.28" visibility="false" nodeId="124729" distanceBlending="false"/>
+          <Shape shapeId="150" name="MainRoadJ2_1" translation="-48.3836 242.069 709.027" visibility="false" nodeId="124730" distanceBlending="false"/>
+          <Shape shapeId="151" name="MainRoadJ2_2" translation="-57.51 241.669 705.252" visibility="false" nodeId="124731" distanceBlending="false"/>
+          <Shape shapeId="152" name="NorthSouth3_N3" translation="-45.5768 242.048 696.485" visibility="false" nodeId="124732" distanceBlending="false"/>
+          <Shape shapeId="153" name="NorthSouth3_S3" translation="-48.509 242.048 693.89" visibility="false" nodeId="124733" distanceBlending="false"/>
+          <Shape shapeId="154" name="NorthSouth3J1_1" translation="29.8558 245.122 1089.27" visibility="false" nodeId="124734" distanceBlending="false"/>
+          <Shape shapeId="155" name="NorthSouth3J1_2" translation="26.2218 245.288 1087.29" visibility="false" nodeId="124735" distanceBlending="false"/>
+          <Shape shapeId="156" name="NorthSouth3J2_1" translation="-45.9721 245.097 520.529" visibility="false" nodeId="124736" distanceBlending="false"/>
+          <Shape shapeId="157" name="NorthSouth3J2_2" translation="-48.2514 245.773 504.314" visibility="false" nodeId="124737" distanceBlending="false"/>
+          <Shape shapeId="158" name="NorthSouth3J2_3" translation="-52.4118 245.773 507.843" visibility="false" nodeId="124738" distanceBlending="false"/>
+          <Shape shapeId="159" name="NorthSouth3J2_4" translation="-53.2474 246.704 517.807" visibility="false" nodeId="124739" distanceBlending="false"/>
+          <Shape shapeId="160" name="NorthSouth3J2_5" translation="-51.2578 246.704 516.258" visibility="false" nodeId="124740" distanceBlending="false"/>
+          <Shape shapeId="161" name="NorthSouth3J2_6" translation="-50.7335 246.704 510.654" visibility="false" nodeId="124741" distanceBlending="false"/>
+          <Shape shapeId="162" name="NorthSouth3_N4" translation="-45.6825 245.082 495.858" visibility="false" nodeId="124742" distanceBlending="false"/>
+          <Shape shapeId="163" name="NorthSouth3_S4" translation="-48.1299 245.082 495.851" visibility="false" nodeId="124743" distanceBlending="false"/>
+          <Shape shapeId="164" name="NorthSouth4_N1" translation="2040.79 243.842 -137.12" visibility="false" nodeId="124744" distanceBlending="false"/>
+          <Shape shapeId="165" name="NorthSouth4_S1" translation="2037.26 243.842 -137.12" visibility="false" nodeId="124745" distanceBlending="false"/>
+          <Shape shapeId="166" name="NorthSouth4J1_1" translation="2034.63 249.942 -136.547" visibility="false" nodeId="124746" distanceBlending="false"/>
+          <Shape shapeId="167" name="NorthSouth4J1_2" translation="2019.33 246.242 -135.478" visibility="false" nodeId="124747" distanceBlending="false"/>
+          <Shape shapeId="168" name="NorthSouth4J2_1" translation="2038.82 238.202 -505.087" visibility="false" nodeId="124748" distanceBlending="false"/>
+          <Shape shapeId="169" name="NorthSouth4J2_2" translation="2031.71 238.202 -512.768" visibility="false" nodeId="124749" distanceBlending="false"/>
+          <Shape shapeId="170" name="NorthEastRoad_W1" translation="2030.68 238.226 -512.865" visibility="false" nodeId="124750" distanceBlending="false"/>
+          <Shape shapeId="171" name="NorthEastRoad_E1" translation="2030.68 238.226 -509.595" visibility="false" nodeId="124751" distanceBlending="false"/>
+          <Shape shapeId="172" name="mainVehicleTourJ1_1" translation="-1265.21 220.035 153.022" visibility="false" nodeId="124752" distanceBlending="false"/>
+          <Shape shapeId="173" name="mainVehicleTourJ1_2" translation="-1268.52 220.707 153.022" visibility="false" nodeId="124753" distanceBlending="false"/>
+          <Shape shapeId="174" name="mainVehicleTourJ1_3" translation="-1264.56 220.707 141.331" visibility="false" nodeId="124754" distanceBlending="false"/>
+          <Shape shapeId="175" name="mainVehicleTourJ1_4" translation="-1268.04 220.707 138.235" visibility="false" nodeId="124755" distanceBlending="false"/>
+          <Shape shapeId="176" name="mainVehicleTourJ1_5" translation="-1298.6 221.488 122.336" visibility="false" nodeId="124756" distanceBlending="false"/>
+          <Shape shapeId="177" name="mainVehicleTourJ1_6" translation="-1297.76 221.488 120.699" visibility="false" nodeId="124757" distanceBlending="false"/>
+          <Shape shapeId="178" name="mainVehicleTourJ1_7" translation="-1284.72 221.488 115.349" visibility="false" nodeId="124758" distanceBlending="false"/>
+          <Shape shapeId="179" name="mainVehicleTourJ1_8" translation="-1282.41 221.884 118.108" visibility="false" nodeId="124759" distanceBlending="false"/>
+          <Shape shapeId="180" name="mainVehicleTourJ1_9" translation="-1261.02 219.974 157.921" visibility="false" nodeId="124760" distanceBlending="false"/>
+          <Shape shapeId="181" name="mainVehicleTourJ1_10" translation="-1265.22 219.974 157.232" visibility="false" nodeId="124761" distanceBlending="false"/>
+          <Shape shapeId="182" name="mainVehicleTourJ2_1" translation="-1193.42 227.481 176.338" rotation="180 -1.86693e-05 180" visibility="false" nodeId="124762" distanceBlending="false"/>
+          <Shape shapeId="183" name="mainVehicleTourJ2_2" translation="-1203.37 227.481 172.666" rotation="180 -1.86693e-05 180" visibility="false" nodeId="124763" distanceBlending="false"/>
+          <Shape shapeId="184" name="mainVehicleTourJ2_3" translation="-1199.44 227.481 173.345" rotation="180 -1.86693e-05 180" visibility="false" nodeId="124764" distanceBlending="false"/>
+          <Shape shapeId="185" name="mainVehicleTourJ2_4" translation="-1194.82 227.481 173.533" rotation="180 -1.86693e-05 180" visibility="false" nodeId="124765" distanceBlending="false"/>
+          <Shape shapeId="186" name="mainVehicleTourJ3_1" translation="-55.8267 241.727 706.378" visibility="false" nodeId="124766" distanceBlending="false"/>
+          <Shape shapeId="187" name="mainVehicleTourJ3_2" translation="-63.6807 244.438 700.355" visibility="false" nodeId="124767" distanceBlending="false"/>
+          <Shape shapeId="188" name="mainVehicleTourJ3_3" translation="-56.2955 245.772 699.936" visibility="false" nodeId="124768" distanceBlending="false"/>
+          <Shape shapeId="189" name="mainVehicleTourJ3_4" translation="-59.8557 245.772 701.847" visibility="false" nodeId="124769" distanceBlending="false"/>
+          <Shape shapeId="190" name="mainVehicleTourJ3_5" translation="-64.1889 247.161 700.248" visibility="false" nodeId="124770" distanceBlending="false"/>
+          <Shape shapeId="191" name="mainVehicleTourJ3_6" translation="-62.5414 247.161 699.952" visibility="false" nodeId="124771" distanceBlending="false"/>
+          <Shape shapeId="192" name="mainVehicleTourJ3_7" translation="-61.0763 247.161 700.295" visibility="false" nodeId="124772" distanceBlending="false"/>
+          <Shape shapeId="193" name="mainVehicleTourJ3_8" translation="-62.134 247.161 700.577" visibility="false" nodeId="124773" distanceBlending="false"/>
+          <Shape shapeId="194" name="CherokeeFeeds_P1" translation="-1.73865 245.601 1156.09" visibility="false" nodeId="124774" distanceBlending="false"/>
+          <Shape shapeId="195" name="CherokeeFeeds_P2" translation="23.2796 245.311 1093.57" visibility="false" nodeId="124775" distanceBlending="false"/>
+          <Shape shapeId="196" name="CherokeeFeeds_P3" translation="25.5779 245.342 1094.26" visibility="false" nodeId="124776" distanceBlending="false"/>
+          <Shape shapeId="197" name="CherokeeFeeds_P4" translation="-9.91692 245.522 1115.11" visibility="false" nodeId="124777" distanceBlending="false"/>
+          <Shape shapeId="198" name="HillTop_P1" translation="-1281.84 205.687 -538.151" visibility="false" nodeId="124778" distanceBlending="false"/>
+          <Shape shapeId="199" name="HillTop_P1R" translation="-1281.84 205.687 -538.151" visibility="false" nodeId="124779" distanceBlending="false"/>
+          <Shape shapeId="200" name="HillTop_P2" translation="-1369.75 220.579 -590.137" visibility="false" nodeId="124780" distanceBlending="false"/>
+          <Shape shapeId="201" name="HillTop_P2R" translation="-1369.75 220.579 -590.137" visibility="false" nodeId="124781" distanceBlending="false"/>
+          <Shape shapeId="202" name="HillTop_P3" translation="-1447.33 220.579 -607.392" visibility="false" nodeId="124782" distanceBlending="false"/>
+          <Shape shapeId="203" name="HillTop_P4" translation="-1432.32 224.353 -595.149" rotation="0 -0 1.76294e-05" visibility="false" nodeId="124783"/>
+          <Shape shapeId="204" name="HillTop_P5" translation="-1369.7 220.579 -588.292" visibility="false" nodeId="124784" distanceBlending="false"/>
+          <Shape shapeId="205" name="HillTop_P8" translation="-1471.63 220.589 -688.268" visibility="false" nodeId="124785" distanceBlending="false"/>
+          <Shape shapeId="206" name="HillTop_P8R" translation="-1471.63 220.589 -688.268" visibility="false" nodeId="124786" distanceBlending="false"/>
+          <Shape shapeId="207" name="HillTop_P9" translation="-1461.83 219.412 -762.063" visibility="false" nodeId="124787" distanceBlending="false"/>
+          <Shape shapeId="208" name="HillTop_P10" translation="-1386.71 220.391 -825.114" visibility="false" nodeId="124788" distanceBlending="false"/>
+          <Shape shapeId="209" name="HillTop_P11" translation="-1398.12 220.391 -842.417" visibility="false" nodeId="124789" distanceBlending="false"/>
+          <Shape shapeId="210" name="HillTop_P12" translation="-1394.07 220.391 -845.256" visibility="false" nodeId="124790" distanceBlending="false"/>
+          <Shape shapeId="211" name="HillTop_P13" translation="-1410.41 220.81 -835.294" visibility="false" nodeId="124791" distanceBlending="false"/>
+          <Shape shapeId="212" name="PremierCoop_P1" translation="1599.84 193.344 1143.32" visibility="false" nodeId="124792" distanceBlending="false"/>
+          <Shape shapeId="213" name="PremierCoop_P2" translation="1746.12 214.042 846.147" visibility="false" nodeId="124793" distanceBlending="false"/>
+          <Shape shapeId="214" name="PremierCoop_P3" translation="1719.2 213.988 805.456" visibility="false" nodeId="124794" distanceBlending="false"/>
+          <Shape shapeId="215" name="PremierCoop_P4" translation="1738.56 213.984 841.08" rotation="0 -0 1.76294e-05" visibility="false" nodeId="124795"/>
+          <Shape shapeId="216" name="PremierCoop_P5" translation="1710.58 213.988 878.96" visibility="false" nodeId="124796" distanceBlending="false"/>
+          <Shape shapeId="217" name="PremierCoop_P6" translation="1728.19 213.988 794.479" visibility="false" nodeId="124797" distanceBlending="false"/>
+          <Shape shapeId="218" name="PremierCoop_P7" translation="1746.12 214.042 846.147" visibility="false" nodeId="124798" distanceBlending="false"/>
+          <Shape shapeId="219" name="PremierCoop_J1" translation="1595.14 197.065 1143.22" visibility="false" nodeId="124799" distanceBlending="false"/>
+          <Shape shapeId="220" name="PremierCoop_J2" translation="1594.47 198.253 1145.37" visibility="false" nodeId="124800" distanceBlending="false"/>
+          <Shape shapeId="221" name="PremierCoop_J3" translation="1602.98 192.814 1145.98" visibility="false" nodeId="124801" distanceBlending="false"/>
+          <Shape shapeId="222" name="PremierCoop_J4" translation="1597.45 194.552 1145.98" visibility="false" nodeId="124802" distanceBlending="false"/>
+          <Shape shapeId="223" name="PremierCoop_J5" translation="1604.6 194.552 1145.98" visibility="false" nodeId="124803" distanceBlending="false"/>
+          <Shape shapeId="224" name="PremierCoop_J6" translation="1599.62 195.862 1145.98" visibility="false" nodeId="124804" distanceBlending="false"/>
+          <Shape shapeId="225" name="vehicleShop_J1" translation="-161.496 238.508 1172.72" visibility="false" nodeId="124805" distanceBlending="false"/>
+          <Shape shapeId="226" name="vehicleShop_J2" translation="-161.404 238.508 1174.09" visibility="false" nodeId="124806" distanceBlending="false"/>
+          <Shape shapeId="227" name="vehicleShop_J3" translation="-161.571 238.508 1171.32" visibility="false" nodeId="124807" distanceBlending="false"/>
+          <Shape shapeId="228" name="vehicleShop_J4" translation="-162.671 238.508 1170.22" visibility="false" nodeId="124808" distanceBlending="false"/>
+          <Shape shapeId="229" name="vehicleShop_J5" translation="-163.44 238.508 1169.91" visibility="false" nodeId="124809" distanceBlending="false"/>
+          <Shape shapeId="230" name="vehicleShop_J6" translation="-164.75 238.508 1169.24" visibility="false" nodeId="124810" distanceBlending="false"/>
+          <Shape shapeId="231" name="vehicleShop_P1" translation="-158.219 239.171 1167.31" visibility="false" nodeId="124811" distanceBlending="false"/>
+        </TransformGroup>
+      </TransformGroup>
+  </Scene>
+
+  <UserAttributes>
+    <UserAttribute nodeId="124577">
+      <Attribute name="onCreate" type="scriptCallback" value="TrafficSystem.onCreate"/>
+      <Attribute name="xmlFile" type="string" value="maps/mapUS/trafficSystem.xml"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124578">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124580">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124581">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124582">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124583">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124584">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124585">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124586">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124587">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124588">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124589">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124590">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124591">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124592">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124593">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124594">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124595">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124596">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124597">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124598">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124599">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124600">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124601">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124602">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124603">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124604">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124605">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124606">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124607">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124608">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124609">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124610">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124611">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124612">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124613">
+      <Attribute name="maxSpeedScale" type="float" value="0.5"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124614">
+      <Attribute name="maxSpeedScale" type="float" value="0.5"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124615">
+      <Attribute name="maxSpeedScale" type="float" value="0.5"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124616">
+      <Attribute name="maxSpeedScale" type="float" value="0.5"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124617">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124618">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124619">
+      <Attribute name="maxSpeedScale" type="float" value="0.5"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124620">
+      <Attribute name="maxSpeedScale" type="float" value="0.5"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124621">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124622">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124623">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124624">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124625">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124626">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124627">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124628">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124629">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124630">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124631">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124632">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124633">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124634">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124635">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124636">
+      <Attribute name="maxSpeedScale" type="float" value="1"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124637">
+      <Attribute name="maxSpeedScale" type="float" value="0.5"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124638">
+      <Attribute name="maxSpeedScale" type="float" value="0.5"/>
+      <Attribute name="speedLimit" type="float" value="140"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124639">
+      <Attribute name="onCreate" type="scriptCallback" value="PedestrianSystem.onCreate"/>
+      <Attribute name="xmlFile" type="string" value="$data/maps/mapUS/pedestrianSystem.xml"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124640">
+      <Attribute name="onCreate" type="scriptCallback" value="AISystem.onCreateAIRoadSpline"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124774">
+      <Attribute name="maxWidth" type="float" value="5.5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="124795">
+      <Attribute name="maxWidth" type="float" value="5.5"/>
+    </UserAttribute>
+  </UserAttributes>
+
+</i3D>
